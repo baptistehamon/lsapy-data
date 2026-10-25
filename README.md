@@ -16,7 +16,12 @@ The soil data are extracted from the [_New Zealand Gridded Land Information Data
 ### Climate data
 The climate data correspond to (agro)climate indicators derived from the [_New Zealand Climate Projections Dataset_](https://climatedata.environment.govt.nz/) and include the following variables:
 - `prcptot`: annual total precipitation (mm)
+- `prcptot_0301-0430`: total precipitation betwen Mar 1 and Apr 30
 - `tgmean_0915-1115`: mean daily temperature between Sep 15 and Nov 15 (°C)
 - `tnmean_0815-1015`: mean daily minimum temperature between Aug 15 and Oct 15 (°C)
 - `txmean_0101-0215`: mean daily maximum temperature between Jan 1 and Feb 15 (°C)
 - `year-with-hotweek_1201-0228`: Number of years with at least one hot week (3 days over 35C in a 7-day period) between Dec 1 and Feb 28 (over 10 years)
+
+### Administrative regions
+The following administrative regions are included in the dataset:
+- `nz-regions`: New Zealand regions
