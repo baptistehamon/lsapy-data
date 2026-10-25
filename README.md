@@ -24,4 +24,4 @@ The climate data correspond to (agro)climate indicators derived from the [_New Z
 
 ### Administrative regions
 The following administrative regions are included in the dataset:
-- `nz-regions`: New Zealand regions
+- `regions`: New Zealand regions
